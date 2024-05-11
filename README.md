@@ -1,2 +1,2 @@
 # Estrutura-Dados-C-Aulas
-Repositório para as aulas de estrutura de dados com a linguagem de programação C
+Repositório com as resoluções das atividades propostas em sala de aula.
