@@ -35,4 +35,4 @@ A todo momento novas pessoas procuram a escola para realizar matrícula e o aten
 |  Caminhonete |       R$ 5,50       |     Sim    |
 |  Caminhonete |       R$ 6,50       |     Não    |
 
-Caso o veículo estacionado (qualquer modelo) fique mais de 3 horas tem um desconto adicional de 10%.
+Caso o veículo estacionado (qualquer modelo) fique mais de 3 horas tem um desconto de 10%.
